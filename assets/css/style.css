@@ -1,3 +1,37 @@
 body {
-    background-color: beige;
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: #777777;
+    background-image: url("memphis-colorful.png");
+  }
+  
+  header {
+    background: #ffffff;
+    color: #777777;
+    text-align: right;
+  }
+  
+  h1 {
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: #777777;
+    text-align: center;
+    background: #ffffff;
+  }
+  
+  h2 {
+    font-size: 24px;
+  }
+  
+  a {
+    color: #d21034;
+  }
+  
+button {
+
 }
