@@ -11,7 +11,8 @@ body {
   header {
     background: #ffffff;
     color: #777777;
-    text-align: right;
+    text-align: right
+    border-color: #cccccc;
   }
   
   h1 {
