@@ -9,10 +9,14 @@ body {
   }
   
   header {
-    background: #ffffff;
+    background-color: #ffffff;
     color: #777777;
-    text-align: right
-    border-color: #cccccc;
+    border: solid 1px;
+  }
+
+  #name {
+      background-color: #4aaaa5;
+      color: #ffffff;
   }
   
   h1 {
@@ -27,12 +31,43 @@ body {
   
   h2 {
     font-size: 24px;
+    color: #4aaaa5;
   }
   
-  a {
-    color: #d21034;
-  }
-  
-button {
+/*nav {
+    border: none;
+    color: #777777;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    background-color: #ffffff;
+}*/
 
+ul {
+    list-style-type: none;
+    color: #777777;
+
+}
+
+#button3 {
+    float: right;
+    background-color: none;
+    text-decoration: none;
+    margin-bottom:2px;
+    
+}
+
+#button2 {
+    float: right;
+    background-color: none;
+    text-decoration: none;
+    
+}
+
+#button1 {
+    float: right;
+    background-color: none;
+    text-decoration: none;
+    
 }
